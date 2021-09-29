@@ -90,7 +90,7 @@ Here is an outline of the categories:
 - [Cross](https://crossbm.com/)
 - [BinarApps](https://binarapps.com/)
 - [World Mobile](https://worldmobile.io/)
-- [Ice Addis](http://www.iceaddis.com/)
+- [Iceaddis](http://www.iceaddis.com/)
 - [iCog Labs](https://icog-labs.com/)
 - [Save the Children](https://www.savethechildren.org/)
 - [Blockchain Association of Kenya](https://bak.or.ke/)
